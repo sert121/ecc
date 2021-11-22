@@ -31,15 +31,6 @@ Each operation: ```Addition, Multiplication, Subtraction, Negation,Calculate``` 
 ```int calculate(mpz_t x,mpz_t p)``` : returns whether a valid y exists on the x inputted    
 ```int shanks(mpz_t a, const mpz_t x, const mpz_t prime)``` 
 
- 
-
-## Navigating the Code  
-To perform each of the operations above a ```TODO``` block corresponding  
- to the calling of each of the functions above has been commented in the code,  
- and needs to be uncommented to perform the respective operation. **The TODO block   
-will only run during the pre-defined mode, or when you enter 0 in the terminal at the start**   
- You can also change the values of P and Q for each operation by modifying the values of x and y   
-for P and Q in the commented code block itself.
 
 ## Additional Notes
 Shanks' algorithm is implemented with suitable references from ```GitHub```,```Wikipedia.com```  
