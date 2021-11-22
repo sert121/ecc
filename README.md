@@ -1,4 +1,4 @@
-# ECC
+# Elliptic Curve Cryptography
 
 ## Files for ecc
 ```ecc.cpp```   
